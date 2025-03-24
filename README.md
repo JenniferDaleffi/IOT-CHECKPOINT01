@@ -2,4 +2,4 @@
 
 CheckPoint 2025 de IOT em dupla com Leonardo Cadena @cadenasza.
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+<img width="68" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
